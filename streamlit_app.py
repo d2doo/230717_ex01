@@ -13,7 +13,7 @@ PI = math.pi
 # 반지름
 radius = 15
 
-PI_is = '원주율 : '
+PI_is = '파이 : '
 radius_is = '반지름 : '
 circum = '원의 둘레 : '
 area = '원의 넓이 : '
